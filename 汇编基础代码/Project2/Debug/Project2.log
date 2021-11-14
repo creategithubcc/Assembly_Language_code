@@ -1,0 +1,3 @@
+﻿  Assembling xunhuan.asm...
+Debug\xunhuan.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  Project2.vcxproj -> C:\Users\25613\Desktop\vsstudiopro\Project2\Debug\Project2.exe
